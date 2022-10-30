@@ -1,4 +1,4 @@
-# Monetization-of-the-game-application
+# Formation of a monetization model
 Many games earn money with the help of advertising. And they all face contradictions:
 - The user will get angry and leave if you start showing him ads before the game drags him out.
 - But the later the creators of the game turn on advertising, the less they will earn.
